@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item
+        android:drawable="@drawable/aw"
+        android:duration="10" />
+    <item
+        android:drawable="@drawable/bw"
+        android:duration="10" />
+    <item
+        android:drawable="@drawable/cw"
+        android:duration="10" />
+    <item
+        android:drawable="@drawable/dw"
+        android:duration="10" />
+    <item
+        android:drawable="@drawable/ew"
+        android:duration="10" />
+    <item
+        android:drawable="@drawable/fw"
+        android:duration="10" />
+    <item
+        android:drawable="@drawable/gw"
+        android:duration="10"/>
+</animation-list>

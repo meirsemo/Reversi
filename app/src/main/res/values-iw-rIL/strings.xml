@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings">הגדרות</string>
+    <string name="play">שחק</string>
+    <string name="Play_online">שחק ברשת</string>
+    <string name="login">התחבר</string>
+    <string name="Sing_up">הירשם</string>
+    <string name="user_name">שם משתמש</string>
+    <string name="Password">סיסמא</string>
+    <string name="remember_me">זכור אותי</string>
+    <string name="records">שיאים</string>
+    <string name="resume">חזור</string>
+    <string name="online">רשת</string>
+    <string name="pause">הפסקה</string>
+    <string name="new_game">משחק חדש</string>
+    <string name="start_match">התחל משחק</string>
+    <string name="choose_stone">בחר צבע שחקן</string>
+    <string name="exit">יציאה</string>
+    <string name="app_name">רברסי</string>
+    <string name="statistics">סטטיסטיקות</string>
+    <string name="back">חזרה</string>
+</resources>

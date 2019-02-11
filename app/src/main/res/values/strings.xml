@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">REVERSI</string>
+    <string name="exit">EXIT</string>
+    <string name="settings">SETTINGS</string>
+    <string name="play">PLAY</string>
+    <string name="Play_online">PLAY ONLINE</string>
+    <string name="login">LOGIN</string>
+    <string name="Sing_up">SING UP</string>
+    <string name="user_name">Username</string>
+    <string name="Password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="records">RECORDS</string>
+    <string name="resume">RESUME</string>
+    <string name="online">Online</string>
+    <string name="pause">Pause</string>
+    <string name="new_game">New Game</string>
+    <string name="start_match">Start match</string>
+    <string name="choose_stone">Choose player color</string>
+    <string name="statistics">Statistics</string>
+    <string name="back">Back</string>
+</resources>
